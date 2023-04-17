@@ -1,6 +1,6 @@
 class Stack {
 
-  let st=[]
+  st=[]
 
   push(element) {
     return (this.st.push(element))
